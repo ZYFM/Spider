@@ -1,3 +1,4 @@
+#获取豆瓣电影Top250电影名称，将其排名和名称写入当前目录下的DoubanTop250.csv文件
 import requests
 import csv
 import re
